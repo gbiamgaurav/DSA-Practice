@@ -1,0 +1,3 @@
+Welcome to Log2Base2 
+Visual Computer Science
+tutorial.EOF
